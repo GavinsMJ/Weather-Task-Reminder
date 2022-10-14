@@ -99,3 +99,11 @@ For custom logo visit https://javl.github.io/image2cpp/ and convert your image t
 Final image of the device in action
 
 ![Device](/Assets/images/START.jpeg)
+
+
+Video :
+
+https://user-images.githubusercontent.com/93384778/195774518-c1f16493-8e68-474e-9dfd-b1e0a6e5f386.mp4
+
+All animations and display effects can be changed in the firmware code.
+
