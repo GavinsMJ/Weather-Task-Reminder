@@ -14,8 +14,9 @@ deployed appscript fetches all your tasks for the day, also creates a new event 
 
 Repeat the same steps for the 'CreateEvent' code in the appscript file
 
-Snippets of what to change in both instances
-In the 'ReadEvents' code
+Snippets of what to change in both instances.
+
+In the 'ReadEvents' code :
 
 ```javascript 
   // Replace MySchedules with your calendar name
@@ -24,7 +25,7 @@ In the 'ReadEvents' code
     ....
 ```
 
-In the 'CreateEvent' code
+In the 'CreateEvent' code :
 
 ```javascript 
   // Replace MySchedules with your calendar name
