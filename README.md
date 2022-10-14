@@ -45,9 +45,10 @@ Setup the cuircuit as shown in the image below
 1. Clone the repo
 2. Open the project in Arduino IDE and install the ESP8266 in board manager
 3. Install the following libraries
-    - Adafruit_SSD1306
-    - Adafruit_GFX    
-    - DHT sensor library 
+    - [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
+    - [esp8266-weather-station](https://github.com/ThingPulse/esp8266-weather-station)
+    - [Adafruit DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library) 
+    - [json-streaming-parser](https://github.com/squix78/json-streaming-parser) 
 
 4. Modify the code to add your wifi credentials and the url of the deployed appscript
 
