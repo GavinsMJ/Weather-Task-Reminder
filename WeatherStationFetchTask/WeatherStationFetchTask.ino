@@ -229,7 +229,7 @@ void setup() {
   Serial.println("");
 
   updateData(&display);
-    ///GDSC LOGO/////
+    ///My LOGO/////
     display.clear();
     display.drawXbm(0,0,logo1_width,logo1_height,logo1_bits);    //128*64   -- CHECK SITE https://diyusthad.com/image2cpp    -- for converting image to cpp 
     display.display();                                                             // OR  https://javl.github.io/image2cpp/  -- for converting image to cpp
