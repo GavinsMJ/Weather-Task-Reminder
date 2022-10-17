@@ -83,7 +83,7 @@
         if (!wifiFound) {
             debugln(F("WIFI_Conn:: no Known network identified. Reset to try again"));
             display.clear();
-            display.drawString(64, 10, "No networks Found !!!");
+            display.drawString(64, 10, "No known networks Found");
             display.drawString(64, 20, "Rebooting ...");
             display.display();
   
