@@ -96,7 +96,8 @@ const char *GScriptIdWrite ="replace - me"; //replace with you gscript id for wr
 ```
 
 
-For custom logo visit https://javl.github.io/image2cpp/ and convert your image to c++ array
+For custom logo visit https://javl.github.io/image2cpp/ and convert your image to c++ array.
+The image should be not more than the oled display's size (128x64 pixels - for the display shown here) and 1 bit per pixel.
 
 Final image of the device in action
 
